@@ -1,0 +1,16 @@
+name: Spleef-IR
+main: Amirgta1\Spleef\Spleef
+author: Amirgta1
+version: 1.0.0
+api: [1.0.0, 2.0.0, 3.0.0, 3.0.1]
+
+commands:
+    sp:
+        usage: /sp <make-leave>
+        description: Spleef-Commands
+    spstart:
+        usage: /spstart
+        description: Spleef-Force start
+    spmoney:
+        usage: /spmoney
+        description: Set-Money-Win
